@@ -17,7 +17,10 @@ End-to-end data analytics project analyzing customer purchase behavior using SQL
 - Top 5 Customers by Revenue
 
 ## Dashboard
-Interactive Power BI dashboard with filters by date, country, and product.
+Interactive Power BI dashboard with filters by month, country and product.
+
+<img width="1412" height="745" alt="image" src="https://github.com/user-attachments/assets/aba68e05-c893-4093-b242-a040ed7c7256" />
+
 
 ## Project Structure
 - data/: dataset
@@ -29,3 +32,4 @@ Interactive Power BI dashboard with filters by date, country, and product.
 - Identified high-value customers contributing majority revenue
 - Observed seasonal revenue trends
 - Highlighted country-level performance differences
+
